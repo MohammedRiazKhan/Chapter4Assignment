@@ -47,15 +47,6 @@ public class Question1Test {
         Assert.assertEquals("is the two equal", example, example);
 
 
-        //Inheritance
-        System.out.println("--- Inheritance ---");
-        System.out.println("--- End Inheritance ---");
-
-
-        //polymorphism
-        System.out.println("--- Polymorphism ---");
-        System.out.println("--- End Polymorphism ---");
-
     }
 
     @Test
@@ -75,9 +66,7 @@ public class Question1Test {
         //polymorphism
         System.out.println("--- Polymorphism ---");
         System.out.println("Polymorphed Talk Method:" + riaz.talk());
-
         Assert.assertEquals("Test", riaz.getClass(), riaz.getClass());
-
         System.out.println("--- End Polymorphism ---");
 
     }
