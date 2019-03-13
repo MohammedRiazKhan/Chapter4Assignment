@@ -17,6 +17,13 @@ public class SingleResponsibility {
 
     }
 
+    //doing too much
+    public double CalculatePI(){
+
+        return Math.PI;
+
+    }
+
 
     public boolean oldEnough(int age){
 
