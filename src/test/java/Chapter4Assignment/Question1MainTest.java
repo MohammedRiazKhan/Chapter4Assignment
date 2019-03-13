@@ -10,7 +10,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
-public class Question1Test {
+public class Question1MainTest {
 
     EncapsulatedClassExample example;
     FighterRobot robot;

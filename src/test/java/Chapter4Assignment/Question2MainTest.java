@@ -1,16 +1,15 @@
 package Chapter4Assignment;
 
-import Chapter4Assignment.Inheritence.ButlerRobotImp;
-import Chapter4Assignment.Inheritence.FighterRobotImp;
-import Chapter4Assignment.Inheritence.IRobot;
+import Chapter4Assignment.Question2.ButlerRobotImp;
+import Chapter4Assignment.Question2.IRobot;
+import Chapter4Assignment.Question2.FighterRobotImp;
+import Chapter4Assignment.Question2.IRobot;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
-
-public class Question2Test {
+public class Question2MainTest {
 
 
     IRobot rob;

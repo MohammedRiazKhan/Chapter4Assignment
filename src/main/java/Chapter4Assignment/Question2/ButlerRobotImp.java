@@ -1,4 +1,4 @@
-package Chapter4Assignment.Inheritence;
+package Chapter4Assignment.Question2;
 
 public class ButlerRobotImp implements IRobot {
     @Override

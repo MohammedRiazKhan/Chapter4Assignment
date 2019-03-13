@@ -15,7 +15,6 @@ public class SingleResponsibility {
     }
 
     //use of inner classes for readability
-
     class VotingService{
 
         public boolean oldEnough(int age){
